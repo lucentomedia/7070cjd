@@ -1,0 +1,12 @@
+/node_modules
+/public/storage
+/public/hot
+/storage/*.key
+/vendor
+/.idea
+/resources/assets
+/resources/views/_
+/resources/views/_backup
+Homestead.json
+Homestead.yaml
+/deploy
